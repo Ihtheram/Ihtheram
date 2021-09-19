@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ihtheram
 - 👀 I’m interested in Web Design and Embedded Systems Engineering
 - 🌱 I’m currently learning Web Design and Embedded Systems
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project on Django framework
 - 📫 How to reach me ihtheramchowdhury@gmail.com
 
 My current skills:
