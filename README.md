@@ -5,12 +5,15 @@
 - 📫 How to reach me ihtheramchowdhury@gmail.com
 
 My current skills:
+- Django
 - Python
-- Django (not the REST API yet, no frontend yet)
-- C
+- JavaScript
+- CSS
+- HTML
+- Arduino (basics)
 - Assembly Language (basics)
 - Java
-- Arduino (basics)
+- C
 
 <!---
 Ihtheram/Ihtheram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
