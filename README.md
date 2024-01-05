@@ -1,19 +1,21 @@
 - 👋 Hi, I’m @Ihtheram
-- 👀 I’m interested in web design and development
-- 🌱 I’m currently learning web design and development
-- 💞️ I’m looking to collaborate on any project on Django framework
-- 📫 How to reach me ihtheram.chowdhury@outlook.com
+- 👀 I’m interested in software and web development
+- 🌱 I’m currently learning software and web development
+- 💞️ I’m looking to collaborate on any project on Java, Python, Spring framework, or Django framework
+- 📫 Reach me through my email at ihtheram.chowdhury@outlook.com
 
 My current skills:
+- Spring
+- Java
 - Django
 - Python
+- SQL
 - JavaScript
 - CSS
 - HTML
-- Arduino (basics)
-- Assembly Language (basics)
-- Java
 - C
+- Assembly Language
+
 
 <!---
 Ihtheram/Ihtheram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
