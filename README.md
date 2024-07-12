@@ -7,15 +7,15 @@
 My current skills:
 - Spring
 - Java
+- JUnit
 - Django
 - Python
 - SQL
+- TypeScript
 - JavaScript
 - CSS
 - HTML
 - C
-- Assembly Language
-
 
 <!---
 Ihtheram/Ihtheram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
