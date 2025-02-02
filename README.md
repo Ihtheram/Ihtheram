@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ihtheram
-- 👀 I’m interested in software and web development
-- 🌱 I’m currently learning software and web development
-- 💞️ I’m looking to collaborate on any project on Java, Python, Spring framework, or Django framework
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning software engineering
+- 💞️ I’m looking to collaborate on any project on Java, Spring Boot and React
 - 📫 Reach me through my email at ihtheram.chowdhury@outlook.com
 
 My current skills:
