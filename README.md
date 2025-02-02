@@ -8,8 +8,6 @@ My current skills:
 - Spring
 - Java
 - JUnit
-- Django
-- Python
 - SQL
 - TypeScript
 - JavaScript
